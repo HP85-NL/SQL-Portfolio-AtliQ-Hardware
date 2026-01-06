@@ -1,4 +1,4 @@
--- "THIS IS TO CREATE THE FISCAL YEAR as a FUNCTION
+-- "THIS SQL Query is TO CREATE THE FISCAL YEAR as a FUNCTION"
 
 USE `gdb0041`;
 DROP function IF EXISTS `get_fiscal_year`;
@@ -17,3 +17,5 @@ BEGIN
 END$$
 
 DELIMITER ;"
+
+
