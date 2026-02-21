@@ -71,16 +71,17 @@ Channel mix is concentrated: **Retailer 73.21%**, Direct 15.48%, Distributor 11.
 ---
 
 ## Project navigation
-- **[01_Business_Strategy/](./01_Business_Strategy/)** — Executive PPT, speaker notes, roadmap  
-- **[02_SQL_Analysis/](./02_SQL_Analysis/)** — SQL scripts for all 10 requests  
-- **[03_Data_Outputs/](./03_Data_Outputs/)** — Excel/CSV results, KPI definitions, dashboard snapshots  
+- **[01_AtliQ Hardware Presentation](./AtliQ_Hardware_Presentation%20-%20Copy.pdf)** — Executive PPT, speaker notes, roadmap
+- **[02_SQL_Analysis/](./Ad_hocs_SQL_Queries)** — SQL scripts for all 10 requests  
+- **[03_Data_Outputs/](./CSV%20Output)** — Excel/CSV results, KPI definitions, dashboard snapshots
+
 
 ---
 
 ## Repro steps
 1. Run SQL scripts in `/02_SQL_Analysis/` (MySQL)
 2. Export query results to `/03_Data_Outputs/` (Excel/CSV)
-3. Refresh Power BI dashboard (if included)
+3. Refresh Power BI dashboard
 4. Review the presentation deck for leadership narrative
 
 ---
